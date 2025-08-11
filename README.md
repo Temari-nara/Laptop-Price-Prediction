@@ -62,7 +62,7 @@ laptop-price-prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Temari-nara/Laptop-Price-Prediction.git
    cd laptop-price-prediction
    ```
 
